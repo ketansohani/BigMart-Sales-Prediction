@@ -2,6 +2,7 @@
 ## Business Context
 
 Bigmart is a large supermarket chain, with stores all around the country. The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. 
+
 The aim is to build a predictive model and find out the sales of each product at a particular store. This will help the management take decisions like which type of products to concentrate on at a particular store for increasing sales and so on.
 
 ## Objective
