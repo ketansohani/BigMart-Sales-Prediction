@@ -59,7 +59,7 @@ So, we have 2 features with outliers present. We will be removing these outliers
 
 ## Feature Engineering
 1. Item Weight: The missing values were imputed by mean of Item weights for a particular Item Identifier  
-2.Outlet Size: The missing values were imputed with mode (most frequent category) of Outlet Size for a particular Outlet Type (Grocery Store, Supermarket Type1, Supermarket Type2, Supermarket Type3)  
+2. Outlet Size: The missing values were imputed with mode (most frequent category) of Outlet Size for a particular Outlet Type (Grocery Store, Supermarket Type1, Supermarket Type2, Supermarket Type3)  
 3. Items for which Item_Visibility was 0, was replaced with mean of Item_Visibility column  
 4. The categories in Item_Fat_Content were renamed.  
 5. Categorical columns were converted to numeric using One-Hot Encoding.  
