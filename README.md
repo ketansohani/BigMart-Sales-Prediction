@@ -28,7 +28,7 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 
 ## Exploratory Data Analysis
 
-![](Images/1.JPG)
+
 
 ![](Images/2.JPG)
 
