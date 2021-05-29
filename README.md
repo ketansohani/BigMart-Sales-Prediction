@@ -62,7 +62,7 @@ So, we have 2 features with outliers present. We will be removing these outliers
 2. Outlet Size: The missing values were imputed with mode (most frequent category) of Outlet Size for a particular Outlet Type (Grocery Store, Supermarket Type1, Supermarket Type2, Supermarket Type3)  
 3. Items for which Item_Visibility was 0, was replaced with mean of Item_Visibility column  
 4. The categories in Item_Fat_Content were renamed.  
-5. Categorical columns were converted to numeric using One-Hot Encoding.  
+5. Categorical columns were converted to numeric using dummy variable creation.  
 
 ### Creation of New Attributes:
 1.  A new feature called “New_Item_Type” was created by extracting the type of product from the Item_Identifier. The categories were Food, Non-Consumable and Drinks.
